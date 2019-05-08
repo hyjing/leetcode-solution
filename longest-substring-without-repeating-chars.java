@@ -1,3 +1,4 @@
+// Refer to Java Related: Primitives vs. References
 class Solution {
     public int lengthOfLongestSubstring(String s) {
         String longestStr = "";
